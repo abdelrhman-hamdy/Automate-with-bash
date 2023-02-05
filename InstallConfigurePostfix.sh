@@ -3,12 +3,6 @@
 # you can use the script like this :  ./test.sh  mail.jana.com jana.com "192.168.1.0\/24"
 
 
-
-# you can use tha script like this :  ./test.sh  mail.jana.com jana.com "192.168.1.0\/24"
-
-
-#check=$(rpmquery postfix)package postfix is not installed
-
 function EditCongFile(){
 sed -i -e  "s/#$1 = .*/$1 = $2/" $3
 }
