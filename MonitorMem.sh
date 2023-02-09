@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# this simple script reads the total memory and the  available memory, then check if the available is more than 50% of total or less,then sends an email to the adminstrator on Gmail stating the memory state either OK or ALARAM in case of lack of available memory
+# this simple script reads the total memory and the  available memory, 
+# then check if the available is more than 50% of total or less,then sends an email to the adminstrator on Gmail stating the memory state
+# either OK or ALARAM in case of lack of available memory
 
 
 # mail configurations 
