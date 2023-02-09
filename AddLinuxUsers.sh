@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# testing if hello
+
 # this script creates users on linux system from csv file,then output the users, passwords, and their emails in another csv file
 # it assumes that first column in csv is their first name , and the third column is their emails
 
