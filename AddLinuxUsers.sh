@@ -3,8 +3,7 @@
 # this script creates users on linux system from csv file,then output the users, passwords, and their emails in another csv file
 # it assumes that first column in csv is their first name , and the third column is their emails
 
-#you should pass the csv file contains the users data as argument  with script
-
+#you should pass the name of the csv file as argument  
 
 echo username,password,email > server_users.csv  # creating the output csv file
 count=0
