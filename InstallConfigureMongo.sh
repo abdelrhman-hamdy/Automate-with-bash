@@ -1,5 +1,7 @@
 #!/bin/bash
-#
+
+# This scrpt installs mongodb service,then edits its configuration file to accept requests from any IP and enable authenticaion,
+# and finally  creates admin user and another normal user 
 
 
 function checkService {
