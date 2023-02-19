@@ -1,5 +1,5 @@
 #!/bin/bash
-# Example of using the script : ./InstallConfigurePostfix.sh    Hosname       domainname    "Network Subnet"
+# Example of using the script : ./InstallConfigurePostfix.sh    HostName       DomainName    "NetworkSubnet"
 # Example of using the script : ./InstallConfigurePostfix.sh  mail.hamdy.com   hamdy.com      "192.168.1.0\/24"
 
 
