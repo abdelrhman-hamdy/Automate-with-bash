@@ -1,2 +1,2 @@
 # Automate-with-bash-
-this repo where i put all bash scripts i create to automate linux boring tasks 
+This Repo will contains all Bash scripts that i create to automate various linux tasks 
